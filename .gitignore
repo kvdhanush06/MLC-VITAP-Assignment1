@@ -1,3 +1,5 @@
 venv/
 Datasets.xlsx
 .gitattributes
+CarPricePrediction.pdf
+InsurancePrediction.pdf
